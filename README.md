@@ -7,7 +7,7 @@ Phân tích xu hướng đầu tư startup toàn cầu từ dữ liệu Crunchba
 
 ## Câu hỏi phân tích
 
-1. Ngành nào nhận nhiều vốn đầu tư nhất?
+1. Ngành nào nhận nhiều vốn đầu tư nhất? ![Biểu đồ 1](bieu_do_1.png)
 2. Quốc gia nào có nhiều startup nhất?
 3. Xu hướng startup theo năm như thế nào?
 4. Vòng gọi vốn nào phổ biến nhất?
