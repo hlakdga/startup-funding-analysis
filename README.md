@@ -1,4 +1,4 @@
-📊 Startup Funding Analysis
+Startup Funding Analysis
 Mục tiêu
 Phân tích xu hướng đầu tư startup toàn cầu từ dữ liệu Crunchbase (investments_VC.csv) nhằm hiểu rõ ngành nào được ưa chuộng, quốc gia nào dẫn đầu, và vòng gọi vốn nào phổ biến nhất trong hệ sinh thái startup thế giới.
 
