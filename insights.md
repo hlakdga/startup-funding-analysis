@@ -4,7 +4,7 @@
 
 - **Medical** dẫn đầu với ~1,800 tỷ USD tổng vốn đầu tư, theo sau là **Consulting** (~1,600 tỷ USD) và **Entertainment** (~1,100 tỷ USD).
 - Top 3 ngành này nhận vốn cao hơn hẳn so với 7 ngành còn lại trong top 10
-- Medical và Consulting chiếm gần **41%** tổng vốn của top 10 ngành — phản ánh kỳ vọng tăng trưởng cao của nhà đầu tư vào hai lĩnh vực này
+- Medical và Consulting chiếm gần **41%** tổng vốn của top 10 ngành, phản ánh kỳ vọng tăng trưởng cao của nhà đầu tư vào hai lĩnh vực này
 - **Fashion** và **Sports** nhận vốn ít nhất (~400 tỷ USD), thấp hơn 4 lần so với Medical
 
 > **Đề xuất giải quyết:**
@@ -20,7 +20,7 @@
 - Sự tập trung cực lớn vào thị trường Mỹ cho thấy hệ sinh thái startup toàn cầu vẫn còn phụ thuộc nhiều vào Silicon Valley và các trung tâm công nghệ Mỹ
 
 > **Đề xuất giải quyết:**
-> - **Nhà đầu tư:** Đa dạng hóa danh mục sang châu Âu (Đức, Anh) nơi định giá startup còn thấp hơn Mỹ nhưng tiềm năng tăng trưởng tốt — đây là cách giảm rủi ro tập trung vào một thị trường duy nhất
+> - **Nhà đầu tư:** Đa dạng hóa danh mục sang châu Âu (Đức, Anh) nơi định giá startup còn thấp hơn Mỹ nhưng tiềm năng tăng trưởng tốt, đây là cách giảm rủi ro tập trung vào một thị trường duy nhất
 > - **Startup ngoài Mỹ:** Chủ động đăng ký vào các chương trình accelerator quốc tế (Y Combinator, Techstars) và xây dựng hiện diện pháp lý tại Mỹ (Delaware C-Corp) để dễ dàng nhận vốn từ VC Mỹ hơn
 
 ---
